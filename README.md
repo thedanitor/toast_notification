@@ -6,7 +6,6 @@ This project is from the Day 27 code along video from Udemy's 50 projects in 50 
 
 ### Overall Impression
 
+Simple project, but could be useful for notifying user about input status. It made more sense to me to make the random message and type be variables rather than functions so I did that.
 
-
-### Things Learned
 
